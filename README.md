@@ -9,5 +9,5 @@ I am currently looking for opportunities to grow professionally and impact our s
 
 I've worked with Typescript, NodeJS, React, Elixir, Python, C++, and MySQL.
 
-[![bonizario's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bonizario&layout=compact&langs_count=8&show_icons=true&theme=aura_dark&hide_title=true&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bonizario/bonizario#gh-dark-mode-only)
-[![bonizario's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bonizario&layout=compact&langs_count=8&show_icons=true&theme=default&hide_title=true&hide_border=true#gh-light-mode-only)](https://github.com/bonizario/bonizario#gh-light-mode-only)
+<!-- [![bonizario's Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bonizario&layout=compact&langs_count=8&show_icons=true&theme=aura_dark&hide_title=true&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/bonizario/bonizario#gh-dark-mode-only)
+[![bonizario's Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bonizario&layout=compact&langs_count=8&show_icons=true&theme=default&hide_title=true&hide_border=true#gh-light-mode-only)](https://github.com/bonizario/bonizario#gh-light-mode-only) -->
